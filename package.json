@@ -1,0 +1,24 @@
+{
+  "name": "reactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "BonDoQ <ahmed@bondoq.me>",
+  "license": "MIT",
+  "repository": "https://github.com/BonDoQ/Five-programming-problems",
+  "devDependencies": {
+    "babel": "^5.5.4",
+    "babel-eslint": "^3.1.13",
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.3",
+    "core-js": "^0.9.14",
+    "eslint": "^0.22.1",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-serve": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
